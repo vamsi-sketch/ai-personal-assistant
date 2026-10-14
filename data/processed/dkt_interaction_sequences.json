@@ -1,0 +1,28 @@
+{
+  "total_students": 250,
+  "vocabulary_size": 20,
+  "skills": [
+    "Processes & Threads",
+    "CPU Scheduling",
+    "Process Synchronization",
+    "Deadlocks",
+    "Virtual Memory",
+    "File Systems & Storage",
+    "Binary Search Trees",
+    "Dynamic Programming",
+    "Graph Algorithms",
+    "Computer Networks"
+  ],
+  "sample_trajectory": [
+    {"topic_id": 0, "correct": 1, "difficulty": 1},
+    {"topic_id": 0, "correct": 1, "difficulty": 2},
+    {"topic_id": 1, "correct": 1, "difficulty": 2},
+    {"topic_id": 1, "correct": 1, "difficulty": 3},
+    {"topic_id": 2, "correct": 0, "difficulty": 2},
+    {"topic_id": 2, "correct": 1, "difficulty": 1},
+    {"topic_id": 3, "correct": 0, "difficulty": 2},
+    {"topic_id": 3, "correct": 0, "difficulty": 3},
+    {"topic_id": 3, "correct": 0, "difficulty": 1},
+    {"topic_id": 4, "correct": 1, "difficulty": 2}
+  ]
+}

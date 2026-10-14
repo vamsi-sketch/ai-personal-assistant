@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive AI Personal Learning Assistant",
+  "description": "An adaptive AI personal learning assistant using Deep Learning and Knowledge Tracing (DKT) with RAG, document parsing, dynamic mastery tracking, and personalized study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

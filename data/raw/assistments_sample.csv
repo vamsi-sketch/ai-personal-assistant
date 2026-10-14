@@ -1,0 +1,17 @@
+# ASSISTments 2009-2010 skill builder sample interaction dataset for DKT training
+order_id,user_id,sequence_id,skill_id,skill_name,correct,attempt_count,ms_first_response,opportunity
+1001,501,1,1,"Processes & Threads",1,1,12400,1
+1002,501,2,1,"Processes & Threads",1,1,9800,2
+1003,501,3,2,"CPU Scheduling",1,1,15200,1
+1004,501,4,2,"CPU Scheduling",1,1,14100,2
+1005,501,5,3,"Process Synchronization",0,2,24300,1
+1006,501,6,3,"Process Synchronization",1,1,18000,2
+1007,501,7,4,"Deadlocks",0,3,32000,1
+1008,501,8,4,"Deadlocks",0,2,29000,2
+1009,501,9,4,"Deadlocks",0,1,34000,3
+1010,501,10,5,"Virtual Memory",1,1,11200,1
+1011,502,1,1,"Processes & Threads",1,1,8900,1
+1012,502,2,4,"Deadlocks",1,1,21000,1
+1013,502,3,4,"Deadlocks",1,1,19500,2
+1014,502,4,3,"Process Synchronization",1,1,16400,1
+1015,502,5,2,"CPU Scheduling",0,1,22000,1
